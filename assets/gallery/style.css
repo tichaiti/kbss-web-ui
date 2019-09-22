@@ -20,7 +20,7 @@
   position: absolute;
   top: calc(50% - 32px);
   left: calc(50% - 24px);
-  font-family: 'mobiriseIcons' !important;
+  font-family: 'MobiriseIcons' !important;
   font-size: 3rem !important;
   color: #fff;
   opacity: 0;
@@ -145,7 +145,7 @@
   -moz-transition: opacity .3s ease;
   -o-transition: opacity .3s ease;
   transition: opacity .3s ease;
-  font-family: 'mobiriseIcons'; }
+  font-family: 'MobiriseIcons'; }
   .mbr-gallery .modal .close::before {
     content: '\e91a'; }
 
